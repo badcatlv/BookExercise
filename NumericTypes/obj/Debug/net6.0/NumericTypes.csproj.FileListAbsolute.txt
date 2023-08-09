@@ -1,0 +1,15 @@
+C:\Users\colle\csharp-practice\exercises-and-examples\BookExercise\NumericTypes\obj\Debug\net6.0\NumericTypes.csproj.AssemblyReference.cache
+C:\Users\colle\csharp-practice\exercises-and-examples\BookExercise\NumericTypes\obj\Debug\net6.0\NumericTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\colle\csharp-practice\exercises-and-examples\BookExercise\NumericTypes\obj\Debug\net6.0\NumericTypes.AssemblyInfoInputs.cache
+C:\Users\colle\csharp-practice\exercises-and-examples\BookExercise\NumericTypes\obj\Debug\net6.0\NumericTypes.AssemblyInfo.cs
+C:\Users\colle\csharp-practice\exercises-and-examples\BookExercise\NumericTypes\obj\Debug\net6.0\NumericTypes.csproj.CoreCompileInputs.cache
+C:\Users\colle\csharp-practice\exercises-and-examples\BookExercise\NumericTypes\bin\Debug\net6.0\NumericTypes.exe
+C:\Users\colle\csharp-practice\exercises-and-examples\BookExercise\NumericTypes\bin\Debug\net6.0\NumericTypes.deps.json
+C:\Users\colle\csharp-practice\exercises-and-examples\BookExercise\NumericTypes\bin\Debug\net6.0\NumericTypes.runtimeconfig.json
+C:\Users\colle\csharp-practice\exercises-and-examples\BookExercise\NumericTypes\bin\Debug\net6.0\NumericTypes.dll
+C:\Users\colle\csharp-practice\exercises-and-examples\BookExercise\NumericTypes\bin\Debug\net6.0\NumericTypes.pdb
+C:\Users\colle\csharp-practice\exercises-and-examples\BookExercise\NumericTypes\obj\Debug\net6.0\NumericTypes.dll
+C:\Users\colle\csharp-practice\exercises-and-examples\BookExercise\NumericTypes\obj\Debug\net6.0\refint\NumericTypes.dll
+C:\Users\colle\csharp-practice\exercises-and-examples\BookExercise\NumericTypes\obj\Debug\net6.0\NumericTypes.pdb
+C:\Users\colle\csharp-practice\exercises-and-examples\BookExercise\NumericTypes\obj\Debug\net6.0\NumericTypes.genruntimeconfig.cache
+C:\Users\colle\csharp-practice\exercises-and-examples\BookExercise\NumericTypes\obj\Debug\net6.0\ref\NumericTypes.dll

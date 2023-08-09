@@ -1,0 +1,15 @@
+C:\Users\colle\csharp-practice\exercises-and-examples\BookExercise\AliceInWonderland\bin\Debug\net6.0\AliceInWonderland.exe
+C:\Users\colle\csharp-practice\exercises-and-examples\BookExercise\AliceInWonderland\bin\Debug\net6.0\AliceInWonderland.deps.json
+C:\Users\colle\csharp-practice\exercises-and-examples\BookExercise\AliceInWonderland\bin\Debug\net6.0\AliceInWonderland.runtimeconfig.json
+C:\Users\colle\csharp-practice\exercises-and-examples\BookExercise\AliceInWonderland\bin\Debug\net6.0\AliceInWonderland.dll
+C:\Users\colle\csharp-practice\exercises-and-examples\BookExercise\AliceInWonderland\bin\Debug\net6.0\AliceInWonderland.pdb
+C:\Users\colle\csharp-practice\exercises-and-examples\BookExercise\AliceInWonderland\obj\Debug\net6.0\AliceInWonderland.csproj.AssemblyReference.cache
+C:\Users\colle\csharp-practice\exercises-and-examples\BookExercise\AliceInWonderland\obj\Debug\net6.0\AliceInWonderland.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\colle\csharp-practice\exercises-and-examples\BookExercise\AliceInWonderland\obj\Debug\net6.0\AliceInWonderland.AssemblyInfoInputs.cache
+C:\Users\colle\csharp-practice\exercises-and-examples\BookExercise\AliceInWonderland\obj\Debug\net6.0\AliceInWonderland.AssemblyInfo.cs
+C:\Users\colle\csharp-practice\exercises-and-examples\BookExercise\AliceInWonderland\obj\Debug\net6.0\AliceInWonderland.csproj.CoreCompileInputs.cache
+C:\Users\colle\csharp-practice\exercises-and-examples\BookExercise\AliceInWonderland\obj\Debug\net6.0\AliceInWonderland.dll
+C:\Users\colle\csharp-practice\exercises-and-examples\BookExercise\AliceInWonderland\obj\Debug\net6.0\refint\AliceInWonderland.dll
+C:\Users\colle\csharp-practice\exercises-and-examples\BookExercise\AliceInWonderland\obj\Debug\net6.0\AliceInWonderland.pdb
+C:\Users\colle\csharp-practice\exercises-and-examples\BookExercise\AliceInWonderland\obj\Debug\net6.0\AliceInWonderland.genruntimeconfig.cache
+C:\Users\colle\csharp-practice\exercises-and-examples\BookExercise\AliceInWonderland\obj\Debug\net6.0\ref\AliceInWonderland.dll

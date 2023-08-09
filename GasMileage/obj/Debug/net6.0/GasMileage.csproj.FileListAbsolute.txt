@@ -1,0 +1,15 @@
+C:\Users\colle\csharp-practice\exercises-and-examples\BookExercise\GasMileage\bin\Debug\net6.0\GasMileage.exe
+C:\Users\colle\csharp-practice\exercises-and-examples\BookExercise\GasMileage\bin\Debug\net6.0\GasMileage.deps.json
+C:\Users\colle\csharp-practice\exercises-and-examples\BookExercise\GasMileage\bin\Debug\net6.0\GasMileage.runtimeconfig.json
+C:\Users\colle\csharp-practice\exercises-and-examples\BookExercise\GasMileage\bin\Debug\net6.0\GasMileage.dll
+C:\Users\colle\csharp-practice\exercises-and-examples\BookExercise\GasMileage\bin\Debug\net6.0\GasMileage.pdb
+C:\Users\colle\csharp-practice\exercises-and-examples\BookExercise\GasMileage\obj\Debug\net6.0\GasMileage.csproj.AssemblyReference.cache
+C:\Users\colle\csharp-practice\exercises-and-examples\BookExercise\GasMileage\obj\Debug\net6.0\GasMileage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\colle\csharp-practice\exercises-and-examples\BookExercise\GasMileage\obj\Debug\net6.0\GasMileage.AssemblyInfoInputs.cache
+C:\Users\colle\csharp-practice\exercises-and-examples\BookExercise\GasMileage\obj\Debug\net6.0\GasMileage.AssemblyInfo.cs
+C:\Users\colle\csharp-practice\exercises-and-examples\BookExercise\GasMileage\obj\Debug\net6.0\GasMileage.csproj.CoreCompileInputs.cache
+C:\Users\colle\csharp-practice\exercises-and-examples\BookExercise\GasMileage\obj\Debug\net6.0\GasMileage.dll
+C:\Users\colle\csharp-practice\exercises-and-examples\BookExercise\GasMileage\obj\Debug\net6.0\refint\GasMileage.dll
+C:\Users\colle\csharp-practice\exercises-and-examples\BookExercise\GasMileage\obj\Debug\net6.0\GasMileage.pdb
+C:\Users\colle\csharp-practice\exercises-and-examples\BookExercise\GasMileage\obj\Debug\net6.0\GasMileage.genruntimeconfig.cache
+C:\Users\colle\csharp-practice\exercises-and-examples\BookExercise\GasMileage\obj\Debug\net6.0\ref\GasMileage.dll
